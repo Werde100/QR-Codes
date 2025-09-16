@@ -1,1 +1,12 @@
-
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <title>Weiterleitung</title>
+  <meta http-equiv="refresh" content="0; url=https://www.peterbrockhaus.de/" />
+  <script>window.location.href = "https://www.peterbrockhaus.de/";</script>
+</head>
+<body>
+  Weiterleitung: <a href="https://www.peterbrockhaus.de/">https://www.peterbrockhaus.de/</a>
+</body>
+</html>
